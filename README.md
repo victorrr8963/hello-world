@@ -1,2 +1,3 @@
 # hello-world
-A srepository for a simple hello-world project
+Hi all!
+A repository for a simple hello-world project
